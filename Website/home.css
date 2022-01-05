@@ -1,0 +1,54 @@
+div{
+    text-align: center;
+}
+.inline{
+    display: inline;
+    color: azure;
+    padding-right: 5px;
+    text-align: center;
+    
+              
+}
+
+div img{
+    height: 300px;
+    width: 1000px;
+    margin-top: 5px;
+}
+body{
+    background-color: grey;
+}
+div a:hover{
+    color: blue;
+    }
+div a{
+    color: black;
+    
+}
+p{
+    text-indent: 30px;
+    text-align: center;
+}
+.aboutme{
+   text-align: center;
+   font-size: 20px;
+
+
+}
+.contact{
+    font-size: 50px;
+}
+.section1{
+    background-color: azure;
+    padding: 0cm;
+    margin: 0cm;
+    text-align: center;
+    border-radius: 34%;
+
+}
+.space{
+    margin: 200px;
+}
+.map{
+    
+}

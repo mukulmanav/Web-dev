@@ -1,0 +1,50 @@
+        body{
+            background-color: grey;
+            background-image: url(images/bg.jpg);
+            background-position: center;
+            background-size: 2000px 1200px;
+            background-repeat: no-repeat;
+
+            
+        }
+        ul{
+            cursor: pointer;
+        }
+        ol>ol{
+            font-weight: bold;
+        }
+        @keyframes course{
+            from{width: 0%;}
+            to{
+                width: 100%;
+            }
+        }
+        .anim{
+            animation: course 2s;
+        }
+        button{
+            background-color: black;
+            border: 12px;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 12px;
+        }
+        .head{
+            cursor: ;
+        }
+        button{
+            color: white;
+            width: 20%;
+            margin-left: 200px;
+            font-family: cursive;
+            
+        }
+        a{
+            color: white;
+        }
