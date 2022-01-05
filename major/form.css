@@ -1,0 +1,29 @@
+body{
+    
+    background-image: url(images/back.jpg);
+    background-position: center;
+    background-size: 2000px 1600px;    
+    background-repeat: no-repeat;
+
+    
+}
+.sum{
+    
+}
+table{
+    border-color: goldenrod;
+    padding: 10px;
+    text-align: center;
+    
+}
+.submit{
+    width: 100%;
+    color: beige;
+    background-color: goldenrod;
+}
+a{
+    color: honeydew;
+}
+a:hover{
+    color: black;
+}
